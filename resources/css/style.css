@@ -1,0 +1,51 @@
+body, html{
+  font-family: Helvetica;
+  text-align: center;
+}
+
+ul li{
+  list-style-type: none;
+}
+
+.titulo{
+  font-size: 70px;
+  font-weight: bold;
+
+}
+
+.cabecalho ul li{
+  font-size: 18px;
+  margin: 1em;
+  color: white;
+}
+
+.cabecalho, .titulo-design{
+  background: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  color: white;
+}
+
+.our-process, .design p{
+  font-size: 14px;
+}
+
+.rodape{
+  background-color: dimgray;
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  padding-left: 0.5em;
+
+}
+
+.rodape a, .cabecalho a{
+  color: white;
+}
+
+.main-title{
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* ../resources/img/the-flatiron-building.png */
+/* https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png */
